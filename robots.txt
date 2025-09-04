@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://veythro.com/sitemap.xml
